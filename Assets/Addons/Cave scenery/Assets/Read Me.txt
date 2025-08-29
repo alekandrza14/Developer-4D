@@ -1,0 +1,74 @@
+Привет этот asset добавляет 36 новых Prop для пещеры из них.
++11. Кристаллы.
+1. 5 обычных кристаллов.
+2. 3 больших кристалла.
+3. 1 предмет кристалл.
+4. 1 кристалл в камне.
+5. 1 гигантский кристалл.
++6. грибы.
+1. одинокий гриб.
+2. 2 двойных гриба.
+3. 2 гиганта гриба.
+4. 1 половинка гриба.
++5 растений.
+1. 3 травы.
+2. папоротник.
+3. клумба.
++3 кирпича.
+1. 2 плитка.
+2. стены кусок.
++4 россыпь
+1. 2 песок.
+2. 2 гравий.
++2 деформация почвы.
+1. земля вспаханная.
+2. кратер.
++5 камни.
+1. 4 без форменные.
+2. костёр.
+И 8 материалов.
+1. земля.
+2. камень.
+3. песок.
+4. кирпич.
+5. гравий.
+6. кристалл.
+7. гриб.
+8. трава.
+Hi, this Asset adds 36 new PP for a cave from them.
++11. Crystals.
+1. 5 ordinary crystals.
+2. 3 large crystals.
+3. 1 subject crystal.
+4. 1 crystal in stone.
+5. 1 giant crystal.
++6. mushrooms.
+1. Lonely mushroom.
+2. 2 double mushrooms.
+3. 2 giant mushrooms.
+4. 1 half of the mushroom.
++5 plants.
+1. 3 herbs.
+2. Fern.
+3. Flower beds.
++3 brick.
+1. 2 tiles.
+2. The walls are a piece.
++4 scattering
+1. 2 sand.
+2. 2 gravel.
++2 soil deformation.
+1. The earth is plowed.
+2. Crater.
++5 stones.
+1. 4 without uniform.
+2. Koster.
+And 8 materials.
+1. Earth.
+2. Stone.
+3. Sand.
+4. Brick.
+5. Gravel.
+6. Crystal.
+7. Mushroom.
+8. Grass.

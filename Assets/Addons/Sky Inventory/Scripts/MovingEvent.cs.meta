@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c5718fec5c51b4d479977e6b175c8977
+timeCreated: 1478871751
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75839
+  packageName: Sky Inventory - Element Based Inventory
+  packageVersion: 1.0
+  assetPath: Assets/Sky Inventory/Scripts/MovingEvent.cs
+  uploadId: 146141

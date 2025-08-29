@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ff5df5a7e5d9fb4e935071f06f6e29c
+timeCreated: 1478941138
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75839
+  packageName: Sky Inventory - Element Based Inventory
+  packageVersion: 1.0
+  assetPath: Assets/Sky Inventory/Documentation.txt
+  uploadId: 146141
